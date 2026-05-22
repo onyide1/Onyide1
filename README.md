@@ -1,8 +1,7 @@
-## Hello 🍀
 
-I'm onyide, a digital scientist based in the United Kingdom. 
+Data scientist based in the United Kingdom. 
 
- Materials | Innovative technology | Machine learning | Artificial intelligence |  Data analytics
+ Materials  | Machine learning |  Data analytics
 
 
 
