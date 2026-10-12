@@ -1,5 +1,5 @@
 
-Data scientist based in the United Kingdom. 
+
 
  Materials  | Machine learning |  Data analytics
 
